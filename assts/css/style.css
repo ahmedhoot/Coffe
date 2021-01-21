@@ -1,0 +1,135 @@
+body{
+	background-image: url(../../assts/images/bg.jpg);
+	 margin: 0;
+    padding: 0;
+}
+ .hero {
+    text-align: center;
+     margin-top:40px;
+  
+}
+.hero .row{
+    margin: 0 !important;
+    padding: 0;
+}
+ .hero p.p1 {
+    font-size: 40px;
+    margin: 0 auto;
+    font-weight: 700;
+        color: #e6a756!important;
+
+}
+ .hero p.p2 {
+    font-size: 80px;
+    margin: 0 auto;
+   color: #ffffff;
+    font-weight: 400;
+}
+/*
+header{
+       background-color: rgba(47,23,15,.9);
+
+  margin-top: 50px;
+}
+header .navbar a{
+    color: #dbd8d7 !important;
+    text-transform: uppercase;
+ 
+}
+
+.navbar button{
+   background-color: #dbd8d7 ;
+}
+*/
+header{
+ background-color: rgba(47,23,15,.9);
+height: 80px;
+  margin-top: 50px;
+}
+header ul li a{
+   color: #dbd8d7 !important;
+    text-transform: uppercase;
+    margin: 8px;
+
+}
+.Home-section{
+  margin-top: 90px;
+
+}
+
+.Home-section .p-5{
+  
+  background-color: #dcdcda;
+  text-align: center;
+
+
+}
+.Home-section .p-5 h2{
+  color: #161a1d;
+  font-size: 18px;
+}
+.Home-section .p-5 h3{
+  color: #45525a;
+  font-size: 48px;
+      display: block;
+    font-size: 3rem;
+    font-weight: 100;
+}
+.Home-section .p-5 p{
+  color: #343e43;
+  line-height: 1.6;
+}
+.Home-section button{
+  background-color: #e6a756;
+      border-color: #e6a756;
+      margin-top: 50px;
+}
+.page-section{
+  margin-top: 70px;
+  background-color:  #e6a756;
+}
+.page-section .cta-inner{
+ 
+margin-top: 70px;
+margin-bottom: 50px;
+ background-color: rgba(255,255,255,.85);
+   padding-top: 40px;
+   padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 50px;
+  border: .25rem solid rgba(47,23,15,.9);
+}
+
+.page-section .cta-inner .section-heading-upper{
+
+    color: #161a1d;
+  font-size: 22px;
+  
+ 
+
+}
+.page-section .cta-inner .section-heading-lower{
+    color: #45525a;
+  font-size: 52px;
+      display: block;
+    font-size: 3rem;
+    font-weight: 100;
+ 
+
+}
+.page-section .cta-inner p{
+  line-height: 1.7;
+}
+footer {
+     background-color: rgba(47,23,15,.9);
+
+  margin-top: 60px;
+  color: #e6a756;
+}
+
+.footer p {
+  font-size: 16px;
+}
+.footer-copyright a{
+  color: #fff;
+}

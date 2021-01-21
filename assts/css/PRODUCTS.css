@@ -1,0 +1,95 @@
+body{
+	background-image: url(../../assts/images/bg.jpg);
+	 margin: 0;
+    padding: 0;
+}
+ .hero {
+    text-align: center;
+     margin-top:40px;
+  
+}
+.hero .row{
+    margin: 0 !important;
+    padding: 0;
+}
+ .hero p.p1 {
+    font-size: 40px;
+    margin: 0 auto;
+    font-weight: 700;
+        color: #e6a756!important;
+
+}
+ .hero p.p2 {
+    font-size: 80px;
+    margin: 0 auto;
+   color: #ffffff;
+    font-weight: 400;
+}
+/*
+header{
+       background-color: rgba(47,23,15,.9);
+
+  margin-top: 50px;
+}
+header .navbar a{
+    color: #dbd8d7 !important;
+    text-transform: uppercase;
+ 
+}
+
+.navbar button{
+   background-color: #dbd8d7 ;
+}
+*/
+header{
+ background-color: rgba(47,23,15,.9);
+height: 80px;
+  margin-top: 50px;
+  overflow: hidden;
+}
+header ul li a{
+   color: #dbd8d7 !important;
+    text-transform: uppercase;
+    margin: 8px;
+
+}
+
+.pro .Ahmad{
+  background-color: rgba(255,255,255,.85);
+  border-radius: 8px;
+  margin-top: 50px; 
+border: .25rem solid rgba(255,255,255,.85);
+
+  
+}
+.pro .Ahmad h2{
+ margin-left: 40px;
+  margin-top: 30px;
+  font-size: 16px;
+  color: #212529;
+}
+.pro .Ahmad h3{
+  margin-left: 40px;
+  font-family: Raleway;
+  font-size: 38px;
+color: #6c757d;
+}
+.pro .Ahmad p{
+   margin-left: 40px;
+       color: #212529;
+
+}
+footer {
+     background-color: rgba(47,23,15,.9);
+
+  margin-top: 60px;
+  color: #e6a756;
+}
+
+.footer p {
+  font-size: 16px;
+}
+
+
+
+
